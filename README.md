@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryanverma9953
+- 👋 Hi, I’m Aryan Verma
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning bca from last 2 years
 - 💞
